@@ -1,4 +1,5 @@
 # Help-Guideline-Oculus-Quest-2
 
 
-![](https://equipvr.io/wp-content/uploads/2020/09/oculus-quest-2-logo-290.60505260324xauto@2x.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Oculus_Quest_logo_black.svg/2560px-Oculus_Quest_logo_black.svg.png)
+
