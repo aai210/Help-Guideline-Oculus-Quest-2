@@ -4,7 +4,8 @@
 </p>
 If youre reading this chances are youre already familiar with Meta support and still need help with your Oculus. Despite facing negative experiences with Meta, VR is capable of bringing new emotions and at moment Oculus is one of best options for this. Do not treat this instruction as a universal one. After all even in Meta company itself I do not know about many errors and solutions to problems in software.
 
----
+
+# Instruction
 
 1. If Facebook is not available in your country, then you will need a VPN. You need to distribute Internet within same network for VR glasses and applications on your smartphone. The easiest way to do this is with Wi-Fi on a laptop.
 
