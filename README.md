@@ -7,3 +7,5 @@ If youre reading this chances are youre already familiar with Meta support and s
 ---
 
 1. If Facebook is not available in your country, then you will need a VPN. You need to distribute Internet within same network for VR glasses and applications on your smartphone. The easiest way to do this is with Wi-Fi on a laptop.
+
+2.
