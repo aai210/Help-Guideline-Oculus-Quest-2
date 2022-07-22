@@ -10,3 +10,8 @@ If youre reading this chances are youre already familiar with Meta support and s
 1. If Facebook is not available in your country, then you will need a VPN. You need to distribute Internet within same network for VR glasses and applications on your smartphone. The easiest way to do this is with Wi-Fi on a laptop. If you get already into an endless boot process then you can reset settings helmet by holding button down **"power"** and **"volume buttons"**. Then select **"Factory Reset"** from menu.
 
 2.
+
+
+# Useful Links
+
+[How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
