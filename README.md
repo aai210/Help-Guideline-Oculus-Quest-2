@@ -9,7 +9,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 1. If Facebook is not available in your country, then you will need a VPN. You need to distribute Internet within same network for VR glasses and applications on your smartphone. The easiest way to do this is with Wi-Fi on a laptop. If you get already into an endless boot process then you can reset settings helmet by holding button down **"power"** and **"volume buttons"**. Then select **"Factory Reset"** from menu.
 
-2.
+2. For example lets take [VPN Psiphon](https://psiphon.ca). You need to install Windows version and enable L2TP/IPSec in transport mode settings.
 
 
 # Useful Links
