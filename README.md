@@ -13,7 +13,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 3. If you encounter Wi-Fi sharing issues in step 2. Then you need to use software [Connectify Hotspot](https://connectify.me). The purpose of this software is same  create a Wi-Fi hotspot. To do this, you need to start the VPN and select Psiphon in "Wi-Fi Network to Repeat" list then enter network name and password and click Start Hotspot. Please note that this software is paid. But there is also a free period that should be enough for complete first steps of setup.
 
-4. After update has been downloaded and installed you will be asked to enter numbers from screen. For this you need to install an app on your smartphone called Oculus.
+4. After update has been downloaded and installed you will be asked to enter numbers from screen. For this you need to install an app on your smartphone called Oculus. If you already have Facebook then you just need to click button sign in with Facebook and sign in to your account.
 
 
 # Useful Links
