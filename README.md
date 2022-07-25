@@ -13,6 +13,9 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 3. If you encounter Wi-Fi sharing issues in step 2. Then you need to use software [Connectify Hotspot](https://connectify.me). The purpose of this software is same  create a Wi-Fi hotspot. To do this, you need to start the VPN and select Psiphon in "Wi-Fi Network to Repeat" list then enter network name and password and click Start Hotspot. Please note that this software is paid. But there is also a free period that should be enough for complete first steps of setup.
 
+4. After update has been downloaded and installed you will be asked to enter numbers from screen.
+
+
 # Useful Links
 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
