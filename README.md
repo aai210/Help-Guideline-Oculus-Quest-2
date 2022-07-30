@@ -15,7 +15,9 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 4. After update has been downloaded and installed you will be asked to enter numbers from screen. For this you need to install an app on your smartphone called Oculus. If you already have Facebook then you just need to click button sign in with Facebook and sign in to your account. Next you should be prompted to sign in to Oculus using Facebook. This may not happen and to fix this you can try to log into your account again with using app Oculus. You don't need to do anything on Facebook itself it should happen automatically. If you do not have a Facebook account then see next step. You will also be ask in vr helmet to turn on bluetooth and connect to your phone. Next follow instructions in vr helmet to complete setup.
 
-5.
+5. The Facebook system is very sensitive. Therefore it is best to use a phone number that has already been used on Instagram or WhatsApp. So less likely to face automatic blocking after registration. If you previously had Facebook and use same email then most likely system will block you automatically after registration. During registration process you need to do everything slowly so that system does not take you for a bot.
+
+6. 
 
 # Useful Links
 
