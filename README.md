@@ -17,7 +17,9 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 5. The Facebook system is very sensitive. Therefore it is best to use a phone number that has already been used on Instagram or WhatsApp. So less likely to face automatic blocking after registration. If you previously had Facebook and use same email then most likely system will block you automatically after registration. During registration process you need to do everything slowly so that system does not take you for a bot. If you do everything right and system does not consider you a bot then you will be able to connect to Oculus. Otherwise you will need to appeal and follow further Facebook requirements or try to register a new account.
 
-6. 
+6. After you have finished setting up, you will be taken to virtual room. At this stage you can already use full virtual reality helmet. If you decide to connect a virtual reality helmet to your PC then follow step 7.
+
+7.
 
 # Useful Links
 
