@@ -21,6 +21,8 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 7. There are two ways to connect your Oculus to your PC using a wire or Air Link. In our case we will consider option with Air Link. To connect Oculus PC you need to download [Oculus](https://store.facebook.com/nl/quest/setup/?utm_source=store.facebook.com&utm_medium=oculusredirect) software to your computer. If you don't have access to Facebook install a VPN on your computer.  
 
+8.
+
 # Useful Links
 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
