@@ -19,7 +19,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 6. After you have finished setting up, you will be taken to virtual room. At this stage you can already use full virtual reality helmet. You can already get acquainted with rest of settings and functions on your own. If you decide to connect a virtual reality helmet to your PC then follow step 7.
 
-7.
+7. To connect Oculus PC you need to download Oculus software to your computer. If you don't have access to Facebook then use a VPN.
 
 # Useful Links
 
