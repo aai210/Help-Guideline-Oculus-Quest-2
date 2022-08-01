@@ -19,7 +19,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 6. After you have finished setting up, you will be taken to virtual room. At this stage you can already use full virtual reality helmet. You can already get acquainted with rest of settings and functions on your own. If you decide to connect a virtual reality helmet to your PC then follow step 7.
 
-7. To connect Oculus PC you need to download [Oculus](https://store.facebook.com/nl/quest/setup/?utm_source=store.facebook.com&utm_medium=oculusredirect) software to your computer. If you don't have access to Facebook install a VPN on your computer. 
+7. There are two ways to connect your Oculus to your PC using a wire or Air Link. In our case we will consider option with Air Link. To connect Oculus PC you need to download [Oculus](https://store.facebook.com/nl/quest/setup/?utm_source=store.facebook.com&utm_medium=oculusredirect) software to your computer. If you don't have access to Facebook install a VPN on your computer.  
 
 # Useful Links
 
