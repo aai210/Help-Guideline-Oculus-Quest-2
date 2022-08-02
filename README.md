@@ -26,3 +26,5 @@ If youre reading this chances are youre already familiar with Meta support and s
 # Useful Links
 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
+
+[List of Games with native Oculus support](https://www.reddit.com/r/oculus/wiki/steamgameswithnativesupport)
