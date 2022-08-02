@@ -21,7 +21,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 7. There are two ways to connect your Oculus to your PC using a wire or Wi-Fi. In our case we will consider option with Wi-Fi (Air Link). To connect Oculus PC you need to download [Oculus](https://store.facebook.com/nl/quest/setup/?utm_source=store.facebook.com&utm_medium=oculusredirect) software to your computer. If you don't have access to Facebook servers install a VPN on your computer. You will then be able to download software. 
 
-8. Then put on your VR headset and go to your Oculus settings.
+8. Then put on your VR headset and go to your Oculus settings. Go to **Experimental Features** section and enable **Air Link**.
 
 # Useful Links
 
