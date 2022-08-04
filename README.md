@@ -21,6 +21,8 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 7. There are two ways to connect your Oculus to your PC using a wire or Wi-Fi. In our case we will consider option with Wi-Fi (Air Link). To connect Oculus PC you need to download [Oculus](https://store.facebook.com/nl/quest/setup/?utm_source=store.facebook.com&utm_medium=oculusredirect) software to your computer. If you don't have access to Facebook servers install a VPN on your computer. You will then be able to download software. Then put on your VR headset and go to your Oculus settings. Go to **Experimental Features** section and enable **Air Link**. 
 
+![](https://helpdeskgeek.com/wp-content/pictures/2022/04/image-182.png)
+
 8. Now you need to go back to your PC and launch Oculus software. You will also need to sign in to your Facebook account again. At this stage you may run into some problems. If you are not allowed into your account for unknown reasons you can try to change your password using a forgotten password. If you do not receive SMS to reset passwords try clicking another recovery method. You may also get standard errors that may ask you to try again later.
 
 9. After you log into Facebook you should be prompted to continue with your Facebook account after which you should be taken to Oculus software. One of common problems you may encounter is endless loading. Oculus support cites many reasons why this might be happening. One solution that can help you is to replace your DNS with [Google Public DNS](https://developers.google.com/speed/public-dns).
