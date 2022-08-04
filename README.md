@@ -27,6 +27,8 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 10. To do this you need to do in Windows. **Start menu/Settings/Network & Internet/Change adapter options/Internet Protocol Version 4 (TCP/IPv4) - properties/The Following DNS Server Addresses then specify 8.8.8.8**. This should solve your problem and you can continue with setup. After completing standard settings you need to activate Air Link on PC. To do this press settings and select Beta then activate Air Link.
 
+![](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/04/oculus-pc-enable-air-link.png)
+
 # Useful Links
 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
