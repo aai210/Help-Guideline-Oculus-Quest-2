@@ -23,7 +23,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 8. Now you need to go back to your PC and launch Oculus software. You will also need to sign in to your Facebook account again. At this stage you may run into some problems. If you are not allowed into your account for unknown reasons you can try to change your password using a forgotten password. If you do not receive SMS to reset passwords try clicking another recovery method. You may also get standard errors that may ask you to try again later.
 
-9.
+9. After you log into Facebook you should be prompted to continue with your Facebook account after which you should be taken to Oculus software. One of common problems you may encounter is endless loading.
 
 # Useful Links
 
