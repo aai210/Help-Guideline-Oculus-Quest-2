@@ -25,7 +25,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 9. After you log into Facebook you should be prompted to continue with your Facebook account after which you should be taken to Oculus software. One of common problems you may encounter is endless loading. Oculus support cites many reasons why this might be happening. One solution that can help you is to replace your DNS with [Google Public DNS](https://developers.google.com/speed/public-dns).
 
-10. To do this you need to do in Windows. **Start menu/Settings/Network & Internet/Change adapter options/Internet Protocol Version 4 (TCP/IPv4) - properties/The Following DNS Server Addresses then specify 8.8.8.8**.
+10. To do this you need to do in Windows. **Start menu/Settings/Network & Internet/Change adapter options/Internet Protocol Version 4 (TCP/IPv4) - properties/The Following DNS Server Addresses then specify 8.8.8.8**. This should solve your problem and you can continue with setup. After completing standard settings you need to activate Air Link on PC. To do this press settings and select Beta then activate Air Link.
 
 # Useful Links
 
