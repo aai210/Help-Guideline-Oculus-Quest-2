@@ -35,7 +35,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 ![](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/04/oculus-pc-enable-air-link.png)
 
-11. Now you can connect your VR headset with Air Link. Click add devices and follow instructions. To activate Air Link on VR headset. Click settings and select Oculus Air Link and select your computer. After completing settings you will enter Air Link room it will be different from your main room Oculus. If you have previously used a VPN, you can now disable it. Now you're ready to install [Steam VR](https://store.steampowered.com/app/250820/SteamVR/) on your computer. You must be in Air Link room to launch Steam VR. It will be displayed in your library or you can select Steam from "Browser" button.
+11. Now you can connect your VR headset with Air Link. Click add devices and follow instructions. To activate Air Link on VR headset. Click settings and select Oculus Air Link and select your computer. After completing settings you will enter Air Link room it will be different from your main room Oculus. If you have previously used a VPN, you can now disable it. Now you're ready to install [Steam VR](https://store.steampowered.com/app/250820/SteamVR/) on your computer. You must be in Air Link room to launch Steam VR. It will be displayed in your library or you can select Steam from "Browser" button. If you have a VR-enabled game installed you will be able to select it in Steam VR room. Congratulations now can say that you have finally finished setting up your Oculus Quest 2.
 
 # Useful Links
 
