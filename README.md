@@ -39,6 +39,8 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 # Completion
 
+How do we can see in Oculus Quest 2 is one of worst UX to date. Not having time to turn on virtual reality helmet we face many obstacles and difficulties. This spoils impression of virtual reality helmet and it is quite difficult for an ordinary user to deal with all this. 
+
 # Useful Links
 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
