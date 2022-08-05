@@ -35,7 +35,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 ![](https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/04/oculus-pc-enable-air-link.png)
 
-11. Now you can connect your VR headset with Air Link.
+11. Now you can connect your VR headset with Air Link. Click add devices and follow instructions. To activate Air Link on VR headset. Click settings and select Oculus Air Link and select your computer. After completing settings you will enter Air Link room it will be different from your room Oculus.
 
 # Useful Links
 
