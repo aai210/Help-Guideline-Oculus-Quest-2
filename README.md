@@ -46,3 +46,5 @@ How do we can see in Oculus Quest 2 is one of worst UX to date. Not having time 
 [How To Force Any Unity Game to Run In Native VR Mode](https://www.notion.so/beastsaber/How-To-Force-Any-Unity-Game-to-Run-In-Native-VR-Mode-cf8c50f66f2740d5b692db786a8386a1)
 
 [List of Games with native Oculus support](https://www.reddit.com/r/oculus/wiki/steamgameswithnativesupport)
+
+[How to Take a Screenshot on Oculus Quest 2 or Rift S](https://www.windowsdigitals.com/how-to-take-a-screenshot-on-oculus-quest-2-rift-s/)
