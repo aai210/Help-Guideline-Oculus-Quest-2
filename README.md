@@ -37,7 +37,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 
 11. Now you can connect your VR headset with Air Link. Click add devices and follow instructions. To activate Air Link on VR headset. Click settings and select Oculus Air Link and select your computer. After completing settings you will enter Air Link room it will be different from your main room Oculus. If you have previously used a VPN, you can now disable it. Now you're ready to install [Steam VR](https://store.steampowered.com/app/250820/SteamVR/) on your computer. You must be in Air Link room to launch Steam VR. It will be displayed in your library or you can select Steam from "Browser" button. If you have a VR-enabled game installed you will be able to select it in Steam VR room. Congratulations now can say that you have finally finished setting up your Oculus Quest 2.
 
-12. When connected to your Wi-Fi in vr helmet you can select  advanced settings item. Instead of DHCP select your settings and specify values that router assigns to you. At very bottom you will find DNS item here we specify Google Public DNS 8.8.8.8 and 8.8.4.4 and click connect. Thus your Oculus will partially work with Internet without VPN but you will not be able to update firmware in this state.
+12. When connected to your Wi-Fi in vr helmet you can select  advanced settings item. Instead of DHCP select your settings and specify values that router assigns to you. At very bottom you will find DNS item here we specify Google Public DNS **8.8.8.8** and **8.8.4.4** and click connect. Thus your Oculus will partially work with Internet without VPN but you will not be able to update firmware in this state.
 
 # Completion
 
