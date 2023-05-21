@@ -44,7 +44,7 @@ If youre reading this chances are youre already familiar with Meta support and s
 How do we can see in Oculus Quest 2 is one of worst UX to date. Not having time to turn on virtual reality helmet we face many obstacles and difficulties. This spoils impression of virtual reality helmet and it is quite difficult for an ordinary user to deal with all this. Also linking to Facebook creates additional difficulties in regions where Facebook is not available and interaction with technical support leaves a negative impression. All this not only harms development of virtual reality helmets but also business in general. Despite fact that virtual reality helmets have been around for quite a few years they are still far from mass use. Apparently world needs another company that can develop right virtual reality helmet where everything will work out of box. 
 
 # Update (21.05.2023)
-[Planet Vpn](https://freevpnplanet.com)
+This method also works with [Planet Vpn](https://freevpnplanet.com). If you are trying to update your helmet to latest version, then keep in mind that after clicking the "download" button download indicator does not appear.
 
 
 # Useful Links
