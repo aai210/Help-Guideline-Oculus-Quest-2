@@ -47,7 +47,7 @@ How do we can see in Oculus Quest 2 is one of worst UX to date. Not having time 
 If Psiphon VPN has been blocked in your country. This method also works with [Planet Vpn](https://freevpnplanet.com). If you are trying to update your helmet to latest version, then keep in mind that after clicking the "download" button download indicator does not appear. If you have used Connectify Hotspot you will be able to see network activity. Otherwise pay attention to whether VR helmet has become warmer on front, if so, then it is most likely downloads update.
 
 # Update (09.05.2024)
-This method has stopped working or is not stable. Some Wi-Fi modules are not compatible.
+This vpn method has stopped working or is not stable. Some Wi-Fi modules are not compatible.
 
 # Useful Links
 
