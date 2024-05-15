@@ -50,7 +50,7 @@ If Psiphon VPN has been blocked in your country. This method also works with [Pl
 This VPN method has stopped working or is not stable. Some Wi-Fi modules are not compatible.
 
 # Quick and easy installation VPN using APK
-You probably already know that Oculus does not install APK files from helmet. If you already have access to Oculus system you can install the APK file through another Android device. You need to download APK file to your smartphone for example, then connect it via wire via USB Type-C - USB Type-C to helmet. On your smartphone you must operating mode in file transfer. After this a system explorer window will appear in VR helmet where you can find APK file and start its installation. After installing application you can find it installed in "Unknown sources" and launch from there.
+You probably already know that Oculus does not install APK files from helmet. If you already have access to Oculus system you can install the APK file through another Android device. You need to download APK file to your smartphone for example, then connect it via wire via USB Type-C - USB Type-C to helmet. On your smartphone you must operating mode in file transfer. After this a system explorer window will appear in VR helmet where you can find APK file and start its installation. Installation occurs like a regular APK on a smartphone. After installing application you can find it installed in "Unknown sources" and launch from there.
 
 # Useful Links
 
